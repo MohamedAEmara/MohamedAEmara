@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Emara</h1>
-<h3 align="center">A Competitive Programmer - Computer Engineering student</h3>
+<h3 align="center">Competitive Programmer - Computer Engineering student - Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaemara&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaemara" /> </p>
 
