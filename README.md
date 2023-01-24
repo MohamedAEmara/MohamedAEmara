@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/m__emara" target="blank"><img src="https://img.shields.io/twitter/follow/m__emara?logo=twitter&style=for-the-badge" alt="m__emara" /></a> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+- 🔭 I’m currently working on **[The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohamedAEmara](https://github.com/MohamedAEmara)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/MohamedAEmara)**
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/emaraa/)
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/emaraa/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
