@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/m__emara" target="blank"><img src="https://img.shields.io/twitter/follow/m__emara?logo=twitter&style=for-the-badge" alt="m__emara" /></a> </p>
 
-- 🔭 I’m currently working on **[E-Commerce Application](https://github.com/MohamedAEmara/E-Commerce-Application)**
+- 🔭 I’m currently working on **[Spotify API](https://github.com/MohamedAEmara/Spotify-API)**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/MohamedAEmara)**
 
